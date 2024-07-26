@@ -1,0 +1,3 @@
+# Javoblar boshlandi
+
+* `salomlar`
