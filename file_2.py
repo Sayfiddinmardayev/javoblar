@@ -3,6 +3,8 @@
 # filenomi = 'teachers.txt'
 # with open('teachers.txt', 'w') as f:
     
+
+
 #     while i <= 5:
 #         a = f.write(input(f"{i}  F.I.O kiriting = ")+'\n',)
 #         if i != 5:
